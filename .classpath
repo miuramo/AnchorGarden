@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="jaist/css/covis/cls/CopyOfCovis_Array.java|jaist/css/covis/FitCurves.java|jaist/css/covis/MyQueue.java|jaist/css/covis/MultiLinerTextInputDialog.java|jaist/css/covis/MarchingSquareGrid.java|jp/ac/kyutech/mns/ist/exammon/|jaist/css/covis/util/PrintPrintable.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Piccolo"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
